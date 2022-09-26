@@ -1,1 +1,3 @@
 Hello, my name is Henry and I am working on hw1
+
+Hello, our names are “Henry” and “Cody” and we are working on  hw3 together
